@@ -1,4 +1,4 @@
 module.exports = {
-    base: "vuepress-test"
+    base: "/vuepress-test"
 };
 
